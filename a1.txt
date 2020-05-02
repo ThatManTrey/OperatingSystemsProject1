@@ -1,0 +1,7 @@
+You need VMWare software. Please find it at this LINK.
+
+You need to have two Virtual Machines.
+
+    Please use GeekOS image for the compilation. Please download it at this LINK.
+        ID: root PW: GeekOS (case sensitive)
+    Please use GR01 for GeekOS testing.
